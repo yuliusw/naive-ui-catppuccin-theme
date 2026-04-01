@@ -8,10 +8,10 @@ A Catppuccin dark-based theme palette for Naive UI
 
 ## 简介 | Overview
 
-- 这是一个为 Naive UI 定制的 Catppuccin 暗色主题（倾向于 Catppuccin Mocha 风格）。
+- 这是一个为 Naive UI 的 Catppuccin 暗色主题 json 包。
 - 你可以将主题 JSON 文件导入 Naive UI 官方主题编辑器进行实时预览；也可以在项目中通过 themeOverrides 直接应用。
   
-- This is a Catppuccin dark theme tailored for Naive UI (inspired by Catppuccin Mocha).
+- These are Catppuccin dark themes for Naive UI.
 - You can import the theme JSON into Naive UI’s official theme editor for live preview, or use it directly in your project via themeOverrides.
 
 ## 在线预览 | Live Preview
