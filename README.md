@@ -19,11 +19,9 @@ A Catppuccin dark-based theme palette for Naive UI
 - 打开 Naive UI 主题编辑器: https://www.naiveui.com/zh-CN/os-theme
 - 点击右下角“调色板”按钮，选择“导入”，上传本仓库的 JSON 主题文件，即可预览效果。
 
-- Open Naive UI Theme Editor: https://www.naiveui.com/zh-CN/os-theme
+- Open Naive UI Theme Editor: https://www.naiveui.com/en-US/os-theme
 - Click the palette icon at the bottom-right, choose “Import”, then upload the JSON theme file from this repo to preview.
 
-提示 | Tip  
-如果你使用英文界面，可访问: https://www.naiveui.com/en-US/os-theme
 
 ## 使用方法 | How to Use
 
