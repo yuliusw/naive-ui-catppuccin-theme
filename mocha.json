@@ -1,0 +1,43 @@
+{
+  "common": {
+    "baseColor": "#11111b",
+    "bodyColor": "#1e1e2e",
+    "cardColor": "#313244",
+    "modalColor": "#45475a",
+    "popoverColor": "#313244",
+    "tableHeaderColor": "#45475a",
+    "inputColor": "#313244",
+    "inputColorDisabled": "#45475a",
+    "borderColor": "#585b70",
+    "dividerColor": "#585b70",
+    "textColor1": "#cdd6f4",
+    "textColor2": "#bac2de",
+    "textColor3": "#a6adc8",
+    "textColorDisabled": "#7f849c",
+    "placeholderColor": "#7f849c",
+    "placeholderColorDisabled": "#9399b2",
+    "closeIconColor": "#a6adc8",
+    "clearColor": "#9399b2",
+    "primaryColor": "#89b4fa",
+    "primaryColorHover": "#9cc1fd",
+    "primaryColorPressed": "#7696d4",
+    "infoColor": "#74c7ec",
+    "infoColorHover": "#85cff0",
+    "infoColorPressed": "#62aed0",
+    "successColor": "#a6e3a1",
+    "successColorHover": "#b5e9b1",
+    "successColorPressed": "#8ccb8a",
+    "warningColor": "#f9e2af",
+    "warningColorHover": "#fbe8c3",
+    "warningColorPressed": "#d8c298",
+    "errorColor": "#f38ba8",
+    "errorColorHover": "#f59ab6",
+    "errorColorPressed": "#cb7a93",
+    "hoverColor": "rgba(137, 180, 250, 0.15)"
+  },
+  "Switch": {
+    "railColor": "#6c7086",
+    "railColorActive": "#89b4fa",
+    "buttonColor": "#cdd6f4"
+  }
+}

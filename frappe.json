@@ -1,0 +1,54 @@
+{
+"name": "catppuccin-frappe",
+"common": {
+"baseColor": "#232634",
+"bodyColor": "#303446",
+"cardColor": "#414559",
+"modalColor": "#51576d",
+"popoverColor": "#414559",
+"tableHeaderColor": "#51576d",
+"inputColor": "#414559",
+"inputColorDisabled": "#51576d",
+
+"borderColor": "#626880",
+"dividerColor": "#626880",
+
+"textColor1": "#c6d0f5",
+"textColor2": "#b5bfe2",
+"textColor3": "#a5adce",
+"textColorDisabled": "#838ba7",
+"placeholderColor": "#838ba7",
+"placeholderColorDisabled": "#949cbb",
+"closeIconColor": "#a5adce",
+"clearColor": "#949cbb",
+
+"primaryColor": "#8caaee",
+"primaryColorHover": "#9db7f1",
+"primaryColorPressed": "#7791ca",
+
+"infoColor": "#85c1dc",
+"infoColorHover": "#97cae1",
+"infoColorPressed": "#71a4bb",
+
+"successColor": "#a6d189",
+"successColorHover": "#b3d89b",
+"successColorPressed": "#8db274",
+
+"warningColor": "#e5c890",
+"warningColorHover": "#e9d0a1",
+"warningColorPressed": "#c3aa7a",
+
+"errorColor": "#e78284",
+"errorColorHover": "#eb9596",
+"errorColorPressed": "#c46e70",
+
+"hoverColor": "rgba(140, 170, 238, 0.15)"
+},
+
+"Switch": {
+"railColor": "#737994",
+"railColorActive": "#8caaee",
+"buttonColor": "#c6d0f5"
+}
+
+}

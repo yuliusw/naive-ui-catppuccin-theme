@@ -1,0 +1,53 @@
+{
+"common": {
+"baseColor": "#181926",
+"bodyColor": "#24273a",
+"cardColor": "#363a4f",
+"modalColor": "#494d64",
+"popoverColor": "#363a4f",
+"tableHeaderColor": "#494d64",
+"inputColor": "#363a4f",
+"inputColorDisabled": "#494d64",
+
+"borderColor": "#5b6078",
+"dividerColor": "#5b6078",
+
+"textColor1": "#cad3f5",
+"textColor2": "#b8c0e0",
+"textColor3": "#a5adcb",
+"textColorDisabled": "#8087a2",
+"placeholderColor": "#8087a2",
+"placeholderColorDisabled": "#939ab7",
+"closeIconColor": "#a5adcb",
+"clearColor": "#939ab7",
+
+"primaryColor": "#8aadf4",
+"primaryColorHover": "#9bb8f6",
+"primaryColorPressed": "#7696d1",
+
+"infoColor": "#7dc4e4",
+"infoColorHover": "#8ccbe7",
+"infoColorPressed": "#6aa9c4",
+
+"successColor": "#a6da95",
+"successColorHover": "#b4e0a5",
+"successColorPressed": "#8fbe7d",
+
+"warningColor": "#eed49f",
+"warningColorHover": "#f0dcb0",
+"warningColorPressed": "#cdb788",
+
+"errorColor": "#ed8796",
+"errorColorHover": "#f098a5",
+"errorColorPressed": "#c6717e",
+
+"hoverColor": "rgba(138, 173, 244, 0.15)"
+},
+
+"Switch": {
+"railColor": "#6e738d",
+"railColorActive": "#8aadf4",
+"buttonColor": "#cad3f5"
+}
+
+}
